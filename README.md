@@ -10,3 +10,4 @@ My GitHub page serves as a platform to showcase my skills and experience in data
 - 🤔 I’m looking for help with career guidance and pathway to ML engineering & MLOps
 - 💬 Ask me about my background in nanotechnology and its applications in the oil and gas industry
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammadadil86/)
+- 🌈 Proudly
